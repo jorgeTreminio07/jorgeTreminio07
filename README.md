@@ -56,7 +56,6 @@ Me encanta transformar ideas en interfaces limpias y dinámicas, cuidando cada d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="45" alt="npm"/>
   <img src="https://skillicons.dev/icons?i=pnpm" width="45" height="45" alt="pnpm"/>
-  <img src="https://skillicons.dev/icons?i=railway" width="45" height="45" alt="Railway"/>
   <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="45" height="45" alt="WordPress"/>
 </p>
@@ -68,7 +67,7 @@ Me encanta transformar ideas en interfaces limpias y dinámicas, cuidando cada d
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="45" alt="AWS"/>
 </p>
 
 ---
