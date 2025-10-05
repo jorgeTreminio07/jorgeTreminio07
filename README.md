@@ -89,7 +89,6 @@ Me encanta transformar ideas en interfaces limpias y dinámicas, cuidando cada d
 
 📧 **Correo:** eduardotreminio10@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/jorgetreminio07](https://www.linkedin.com/in/eduardo-treminio-b02b81323/)  
-🐙 **GitHub:** [github.com/jorgetreminio07](https://github.com/jorgetreminio07)
 
 ---
 
