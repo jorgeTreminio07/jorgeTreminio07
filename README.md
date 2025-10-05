@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy **Jorge Treminio**
+# ¡Hola! 👋 Soy **Jorge Treminio**
 
 ## **Desarrollador Web Full Stack** 
 Diseño, desarrollo e implemento soluciones informáticas eficientes y escalables que impulsan la transformación digital y la eficiencia en las empresas.
