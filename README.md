@@ -1,7 +1,9 @@
 # 👋 ¡Hola! Soy **Jorge Treminio**
 
-**Desarrollador Web Full Stack** apasionado por construir experiencias digitales modernas, funcionales y atractivas.  
-Me encanta transformar ideas en interfaces limpias y dinámicas, cuidando cada detalle desde el diseño hasta la lógica.
+**Desarrollador Web Full Stack** 
+Diseño, desarrollo e implemento soluciones informáticas eficientes y escalables que impulsan la transformación digital y la eficiencia en las empresas.
+
+
 
 ---
 
