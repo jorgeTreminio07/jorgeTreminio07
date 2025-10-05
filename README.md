@@ -69,22 +69,6 @@ Me encanta trabajar con tecnologías tanto del **frontend** como del **backend**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgetreminio07&layout=compact&theme=tokyonight)
 
-
-<!-- Estadísticas generales -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgetreminio07&show_icons=true&theme=tokyonight)
-
-<!-- Racha de contribuciones -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jorgetreminio07&theme=tokyonight)
-
-<!-- Contribuciones a lo largo del tiempo -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jorgetreminio07&theme=tokyo-night)
-
-<!-- Commits por hora -->
-![Commits per Hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jorgetreminio07&theme=tokyonight&utcOffset=-6)
-
-<!-- Estadísticas de resumen -->
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorgetreminio07&theme=tokyonight)
-
 ---
 
 ## 🌎 Portafolio
