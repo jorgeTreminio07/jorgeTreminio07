@@ -44,7 +44,7 @@ Me encanta transformar ideas en interfaces limpias y dinámicas, cuidando cada d
 
 ---
 
-## 🧰 Herramientas y DevOps
+## 🧰 Herramientas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
